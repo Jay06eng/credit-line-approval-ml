@@ -1,6 +1,6 @@
 # Improving the Credit Line Approval Process for Advertisers using ML
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Jay06eng/credit-line-approval-ml/blob/main/notebooks/credit_line_approval_applied_ml.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/Jay06eng/credit-line-approval-ml/blob/main/notebooks/credit_line_approval_applied_ml.ipynb](https://colab.research.google.com/drive/1l1bkfJEkTjhjgDliyji2e1zRPmXR16l2?usp=sharing))
 
  Applied analytics and explainable ML to improve credit decisioning, reduce reactive interventions, and enhance advertiser experience.  
 
@@ -86,7 +86,7 @@ This approach prioritizes explainability, a critical requirement in finance envi
 ## Notebook
 
 👉 Open and run the notebook here:  
-[Open in Google Colab](https://colab.research.google.com/github/Jay06eng/credit-line-approval-ml/blob/main/notebooks/credit_line_approval_applied_ml.ipynb)
+[Open in Google Colab]([https://colab.research.google.com/github/Jay06eng/credit-line-approval-ml/blob/main/notebooks/credit_line_approval_applied_ml.ipynb](https://colab.research.google.com/drive/1l1bkfJEkTjhjgDliyji2e1zRPmXR16l2?usp=sharing))
 
 ---
 
